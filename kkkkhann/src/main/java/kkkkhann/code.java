@@ -18,10 +18,10 @@ public class code {
 	}
 	
 	public void Codeclick() {
-		codeclick.click();
+		codeclick.click(); //change here
 	}
 	public void entercode() {
-		Entercode.sendKeys("25723578");    // change code also it is just for commit
+		Entercode.sendKeys("25723578");    
 	}                                       //i have changed
 	public void Back() {
 		back.click();
