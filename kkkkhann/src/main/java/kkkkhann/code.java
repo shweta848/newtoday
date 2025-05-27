@@ -18,7 +18,7 @@ public class code {
 	}
 	
 	public void Codeclick() {
-		codeclick.click(); //change here
+		codeclick.click(); 
 	}
 	public void entercode() {
 		Entercode.sendKeys("25723578");    
